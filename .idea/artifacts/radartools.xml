@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="radartools">
+    <output-path>$PROJECT_DIR$/out/artifacts/radartools</output-path>
+    <root id="archive" name="radartools.jar" />
+  </artifact>
+</component>
